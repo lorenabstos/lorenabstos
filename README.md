@@ -7,15 +7,16 @@
 
 <img src="https://github.com/narelo/narelo/blob/main/banner.png?raw=true" alt="banner">
 
-<h3>connect with me</h3>
+<h4 align="left">CONNECT WITH ME</h4>
 
-<p>
+<p align="left">
   <a href="https://www.linkedin.com/in/lorenabastos/" target="blank">
-    <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="linkedin" height="30" width="30">
+    <img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="linkedin" height="30" width="30">
   </a>
   
   <a href="https://www.instagram.com/bnarelo/" target="blank">
-    <img src="https://image.flaticon.com/icons/png/512/174/174855.png" alt="instagram" height="30" width="30">
+    <img align="center" src="https://image.flaticon.com/icons/png/512/174/174855.png" alt="instagram" height="30" width="30">
   </a>
 </p>
 
+<h4 align="left">LANGUAGES AND TOOLS</h4>
