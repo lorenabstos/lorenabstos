@@ -5,6 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=narelo&color=yellow" alt="profile views">
 </p>
 
+<img src="https://github.com/narelo/narelo/blob/main/banner.png?raw=true" alt="banner">
+
+
 
 
 
