@@ -10,12 +10,12 @@
 <h3>connect with me</h3>
 
 <p>
-  <a href="https://www.linkedin.com/in/lorenabastos/">
-    <img src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1611699977~hmac=59895fdb4017ac42fb5257f620cd20ad" alt="linkedin" height="40" width="40">
+  <a href="https://www.linkedin.com/in/lorenabastos/" target="blank">
+    <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="linkedin" height="30" width="30">
   </a>
   
-  <a href="https://www.instagram.com/bnarelo/">
-    <img src="https://image.flaticon.com/icons/png/512/174/174855.png" alt="instagram" height="40" width="40">
+  <a href="https://www.instagram.com/bnarelo/" target="blank">
+    <img src="https://image.flaticon.com/icons/png/512/174/174855.png" alt="instagram" height="30" width="30">
   </a>
 </p>
 
