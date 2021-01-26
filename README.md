@@ -20,3 +20,6 @@
 </p>
 
 <h4 align="left">LANGUAGES AND TOOLS</h4>
+<p align="left">
+  <img src="https://image.flaticon.com/icons/png/512/919/919827.png" alt="html" width="40">
+</p>
