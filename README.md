@@ -21,5 +21,7 @@
 
 <h4 align="left">LANGUAGES AND TOOLS</h4>
 <p align="left">
-  <img src="https://image.flaticon.com/icons/png/512/919/919827.png" alt="html" width="40">
+  <img src="https://image.flaticon.com/icons/png/512/919/919827.png" alt="html" width="60">
+  <img src="https://i.pinimg.com/originals/eb/7e/20/eb7e20e646f5b7ec9ed4f8f78a5dee8f.png" alt="css" width="60">
+  
 </p>
