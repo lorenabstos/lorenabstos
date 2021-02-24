@@ -47,10 +47,10 @@
 <details>
 <summary><b>also follow me on</b>:</summary>
 <br>
-<p>
-<a href="https://web.digitalinnovation.one/users/lorenabastosamz?tab=achievements"><img src="https://mulherohomemdacasa.com.br/wp-content/uploads/2020/02/2.png" width="100"></a> | 
-<a href="https://app.rocketseat.com.br/me/lorenabastos"><img src="https://embed.filekitcdn.com/e/tBsgk1B9duMKbVtFjcLnK8/6kwAbrCXdvYVzhXpMy5CCY/email" width="100"></a>
-</p>
+<ul>
+<li><a href="https://web.digitalinnovation.one/users/lorenabastosamz?tab=achievements"><img src="https://mulherohomemdacasa.com.br/wp-content/uploads/2020/02/2.png" width="100"></a></li>
+<li><a href="https://app.rocketseat.com.br/me/lorenabastos"><img src="https://embed.filekitcdn.com/e/tBsgk1B9duMKbVtFjcLnK8/6kwAbrCXdvYVzhXpMy5CCY/email" width="100"></a></li>
+</ul>
 </details>
 
 <hr>
