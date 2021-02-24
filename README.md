@@ -5,8 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=narelo&color=blue" alt="profile views">
 </p>
 
-<p>
-<h4>🤝 CONNECT WITH ME</h4>
+<p align="center">
+<h4 align="center">🤝 CONNECT WITH ME</h4>
 <a href="mailto:lorenabastosamz@gmail.com/">
 <img src="https://img.shields.io/badge/-Gmail-c14321?logo=Gmail&logoColor=red&style=social">
 </a>
@@ -19,12 +19,15 @@
 <a href="https://discord.com/login/">
 <img src="https://img.shields.io/badge/-Discord-E5E7E9?logo=Discord&logoColor=7289da&style=social">
 </a>
-<img align="right" src="https://github.com/narelo/narelo/blob/main/gif.gif?raw=true" alt="gif" height="400">
+</p>
+
+<p align="right">
+<img align="right" src="https://github.com/narelo/narelo/blob/main/gif.gif?raw=true" alt="gif" height="300">
 </p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narelo&layout=compact&text_color=daf7dc&bg_color=151515">
-
+<br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=narelo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40">
 </p>
 
