@@ -23,7 +23,7 @@
 
 <img src="https://github.com/narelo/narelo/blob/main/gif.gif?raw=true" alt="gif" align="right" width="400">
 
-<h3>👩🏽‍💻 ABOUT ME</h3>
+<h3 align="center">👩🏽‍💻 ABOUT ME</h3>
 <ul>
 <li>🖥️ I'm currently learning web development with a focus on frontend.</li>
 <li> 🌱 Exploring new technologies and developing software solutions and quick hacks.</li>
@@ -35,10 +35,10 @@
 
 <hr>
 
-<h3>Github Profile Stats</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narelo&layout=compact&text_color=daf7dc&bg_color=151515"  align="center">
+<h3 align="center">Github Profile Stats</h3>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narelo&layout=compact&text_color=daf7dc&bg_color=151515">
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=narelo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=narelo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"></p>
 
 
 
