@@ -17,9 +17,9 @@
 <img src="https://img.shields.io/badge/-Instagram-E5E7E9?logo=Instagram&logoColor=FF00A2&style=social">
 </a>
 <a href="https://discord.com/login/">
-<img src="https://img.shields.io/badge/-Discord-E5E7E9?logo=Discord&logoColor=7289da&style=social"> <small>Lorena#9995</small>
-</a>
-<img align="right" src="https://github.com/narelo/narelo/blob/main/gif.gif?raw=true" alt="gif" height="300">
+<img src="https://img.shields.io/badge/-Discord-E5E7E9?logo=Discord&logoColor=7289da&style=social">
+</a> <small>Lorena#9995</small>
+<img align="right" src="https://github.com/narelo/narelo/blob/main/gif.gif?raw=true" alt="gif" height="500">
 </p>
 
 <p align="center">
