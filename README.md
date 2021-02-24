@@ -26,6 +26,7 @@
 <h3 align="center">👩🏽‍💻 ABOUT ME</h3>
 <ul>
 <li>💬 Ask me about anything <a href="https://github.com/narelo/narelo/issues">here</a>.</li>
+<br>
 <li>🤖 Great love for Artificial Intelligence and Robotics.
 </li>
 <br>
@@ -37,9 +38,13 @@
 <li> 🌱 Exploring new technologies and developing software solutions and quick hacks.</li>
 <br>
 </ul>
+<h3 align="center">👾 Others</h3>
+<ul>
+<li><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" width="20"> Let's connect on Discord: <b>Lorena#9995</b>.</li>
+<li><img src="https://www.guilded.gg/asset/GameIcons/CoDMobile-lg.png" width="20"> Play with me on call of duty mobile: <b>bnarelo</b>.</li>
+</ul>
 
 <hr>
-
 
 <details open>
 <summary>⚙ <b>GitHub Analytics</b>: </summary>
