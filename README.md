@@ -44,19 +44,22 @@
 <li><img src="https://static10.tgstat.ru/channels/_0/b4/b4019f29ef8316dd5a7bed1923367d93.jpg" width="20"> Play with me on call of duty mobile: <b>bnarelo</b>.</li>
 </ul>
 
-<h4>also follow me on:</h4>
-<p align="center">
-<a href="https://app.rocketseat.com.br/me/lorenabastos"><img src="https://raw.githubusercontent.com/Rocketseat/awesome/master/assets/logo_rocketseat.png" width="100"></a>
+<detais>
+<summary><b>also follow me on</b>:</summary>
+<br>
+<p>
+<a href="https://app.rocketseat.com.br/me/lorenabastos"><img src="https://embed.filekitcdn.com/e/tBsgk1B9duMKbVtFjcLnK8/6kwAbrCXdvYVzhXpMy5CCY/email" width="100"></a>
 <a href="https://web.digitalinnovation.one/users/lorenabastosamz?tab=achievements"><img src="https://mulherohomemdacasa.com.br/wp-content/uploads/2020/02/2.png" width="100"></a>
 </p>
+</detais>
 
 <hr>
 <details open>
 <summary>⚙ <b>GitHub Analytics</b>: </summary>
 <br>
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narelo&layout=compact&langs_count=8&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=narelo&show_icons=true&theme=dracula&bg_color=0,000000,130F40&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narelo&layout=compact&langs_count=8&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=narelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </p>
 </details>
 
