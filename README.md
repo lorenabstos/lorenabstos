@@ -16,8 +16,8 @@
 <a href="https://www.instagram.com/bnarelo/">
 <img src="https://img.shields.io/badge/-Instagram-E5E7E9?logo=Instagram&logoColor=FF00A2&style=social">
 </a>
-<a href="https://discord.com/login/">
-<img src="https://img.shields.io/badge/-Discord-E5E7E9?logo=Discord&logoColor=7289da&style=social">
+<a href="https://t.me/lorenabsts">
+<img src="https://img.shields.io/badge/-Telegram-E5E7E9?logo=Telegram&style=social">
 </a>
 </p>
 
@@ -26,11 +26,15 @@
 <h3 align="center">👩🏽‍💻 ABOUT ME</h3>
 <ul>
 <li>🖥️ I'm currently learning web development with a focus on frontend.</li>
+<br>
 <li> 🌱 Exploring new technologies and developing software solutions and quick hacks.</li>
+<br>
 <li>🤖 Great love for Artificial Intelligence and Robotics.
 </li>
+<br>
 <li>🎓 Studying Computer Engineering and computer programming.
 </li>
+<br>
 </ul>
 
 <hr>
