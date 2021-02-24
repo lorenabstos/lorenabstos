@@ -18,8 +18,8 @@
 </a>
 <a href="https://discord.com/login/">
 <img src="https://img.shields.io/badge/-Discord-E5E7E9?logo=Discord&logoColor=7289da&style=social">
-</a> <small>Lorena#9995</small>
-<img align="right" src="https://github.com/narelo/narelo/blob/main/gif.gif?raw=true" alt="gif" height="500">
+</a>
+<img align="right" src="https://github.com/narelo/narelo/blob/main/gif.gif?raw=true" alt="gif" height="400">
 </p>
 
 <p align="center">
