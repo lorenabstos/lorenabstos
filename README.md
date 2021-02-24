@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=narelo&color=blue" alt="profile views">
 </p>
 
-<h4 align="center">🤝 CONNECT WITH ME</h4>
+<h3 align="center">🤝 CONNECT WITH ME</h3>
 <p align="center">
 <a href="mailto:lorenabastosamz@gmail.com/">
 <img src="https://img.shields.io/badge/-Gmail-c14321?logo=Gmail&logoColor=red&style=social">
@@ -21,15 +21,19 @@
 </a>
 </p>
 
-<p align="right">
-<img align="right" src="https://github.com/narelo/narelo/blob/main/gif.gif?raw=true" alt="gif" height="500">
-</p>
+<img src="https://github.com/narelo/narelo/blob/main/gif.gif?raw=true" alt="gif" align="right" width="400">
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narelo&layout=compact&text_color=daf7dc&bg_color=151515">
+<h3>👩🏽‍💻 ABOUT ME</h3>
+* 🖥️ I'm currently learning web development with a focus on frontend.
+* 🌱 Exploring new technologies and developing software solutions and quick hacks.
+* 🤖 Great love for Artificial Intelligence and Robotics.
+* 🎓 Studying Computer Engineering and computer programming.
+
+<hr>
+<h3>Github Profile Stats</h3>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narelo&layout=compact&text_color=daf7dc&bg_color=151515"  align="center">
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=narelo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40">
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=narelo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" align="center">
 
 
 
