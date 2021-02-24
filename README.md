@@ -49,8 +49,8 @@
 <summary>⚙ <b>GitHub Analytics</b>: </summary>
 <br>
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narelo&layout=compact&langs_count=8&theme=merko&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=narelo&show_icons=true&theme=merko&bg_color=0,000000,064000&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narelo&layout=compact&langs_count=8&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=narelo&show_icons=true&theme=dracula&bg_color=0,000000,130F40&include_all_commits=true&count_private=true"/>
 </p>
 </details>
 
