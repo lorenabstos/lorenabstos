@@ -24,12 +24,17 @@
 <img src="https://github.com/narelo/narelo/blob/main/gif.gif?raw=true" alt="gif" align="right" width="400">
 
 <h3>👩🏽‍💻 ABOUT ME</h3>
-* 🖥️ I'm currently learning web development with a focus on frontend.
-* 🌱 Exploring new technologies and developing software solutions and quick hacks.
-* 🤖 Great love for Artificial Intelligence and Robotics.
-* 🎓 Studying Computer Engineering and computer programming.
+<ul>
+<li>🖥️ I'm currently learning web development with a focus on frontend.</li>
+<li> 🌱 Exploring new technologies and developing software solutions and quick hacks.</li>
+<li>🤖 Great love for Artificial Intelligence and Robotics.
+</li>
+<li>🎓 Studying Computer Engineering and computer programming.
+</li>
+</ul>
 
 <hr>
+
 <h3>Github Profile Stats</h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narelo&layout=compact&text_color=daf7dc&bg_color=151515"  align="center">
 <br>
