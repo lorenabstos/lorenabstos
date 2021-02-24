@@ -5,8 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=narelo&color=blue" alt="profile views">
 </p>
 
-<p align="center">
 <h4 align="center">🤝 CONNECT WITH ME</h4>
+<p align="center">
 <a href="mailto:lorenabastosamz@gmail.com/">
 <img src="https://img.shields.io/badge/-Gmail-c14321?logo=Gmail&logoColor=red&style=social">
 </a>
@@ -22,7 +22,7 @@
 </p>
 
 <p align="right">
-<img align="right" src="https://github.com/narelo/narelo/blob/main/gif.gif?raw=true" alt="gif" height="300">
+<img align="right" src="https://github.com/narelo/narelo/blob/main/gif.gif?raw=true" alt="gif" height="500">
 </p>
 
 <p align="center">
