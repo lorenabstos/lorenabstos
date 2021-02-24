@@ -44,16 +44,17 @@
 <li><img src="https://static10.tgstat.ru/channels/_0/b4/b4019f29ef8316dd5a7bed1923367d93.jpg" width="20"> Play with me on call of duty mobile: <b>bnarelo</b>.</li>
 </ul>
 
-<detais>
+<details>
 <summary><b>also follow me on</b>:</summary>
 <br>
 <p>
-<a href="https://app.rocketseat.com.br/me/lorenabastos"><img src="https://embed.filekitcdn.com/e/tBsgk1B9duMKbVtFjcLnK8/6kwAbrCXdvYVzhXpMy5CCY/email" width="100"></a>
 <a href="https://web.digitalinnovation.one/users/lorenabastosamz?tab=achievements"><img src="https://mulherohomemdacasa.com.br/wp-content/uploads/2020/02/2.png" width="100"></a>
+<a href="https://app.rocketseat.com.br/me/lorenabastos"><img src="https://embed.filekitcdn.com/e/tBsgk1B9duMKbVtFjcLnK8/6kwAbrCXdvYVzhXpMy5CCY/email" width="100"></a>
 </p>
-</detais>
+</details>
 
 <hr>
+
 <details open>
 <summary>⚙ <b>GitHub Analytics</b>: </summary>
 <br>
