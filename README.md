@@ -13,7 +13,7 @@
 <a href="https://www.linkedin.com/in/lorenabastos/">
 <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=blue&style=social">
 </a>
-<a href="https://www.instagram.com/bnarelo/">
+<a href="https://www.instagram.com/devhitech/">
 <img src="https://img.shields.io/badge/-Instagram-E5E7E9?logo=Instagram&logoColor=FF00A2&style=social">
 </a>
 <a href="https://t.me/lorenabsts">
