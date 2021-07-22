@@ -26,15 +26,9 @@
 <h3 align="center">👩🏽‍💻 ABOUT ME</h3>
 <ul>
 <li>💬 Ask me about anything <a href="https://github.com/narelo/narelo/issues">here</a>.</li>
-<br>
-<li>🤖 Great love for Artificial Intelligence and Robotics.
-</li>
-<br>
-<li>🎓 Studying Computer Engineering and computer programming.
-</li>
-<br>
+<li>🤖 Great love for Artificial Intelligence and Robotics.</li>
+<li>🎓 Studying Computer Engineering and computer programming.</li>
 <li>🖥️ I'm currently learning web development focused on frontend development.</li>
-<br>
 <li> 🌱 Exploring new technologies and developing software solutions and quick hacks.</li>
 <br>
 </ul>
