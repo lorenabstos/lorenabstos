@@ -1,5 +1,5 @@
 <h1 align="center"> Hey, what's up? I'm Lorena <img src="https://github.com/devSouvik/devSouvik/blob/master/Hi.gif?raw=true" width="35"></h1>
-<h4 align="center">an computer engineering & fullstack development student.</h4>
+<h4 align="center">a computer engineering and fullstack development student.</h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=narelo&color=blue" alt="profile views">
@@ -31,23 +31,6 @@
 <li>🖥️ I'm currently learning web development focused on frontend development.</li>
 <li> 🌱 Exploring new technologies and developing software solutions and quick hacks.</li>
 <br>
-</ul>
-<h3 align="center">👾 OTHERS</h3>
-<ul>
-<li><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" width="20"> Let's connect on Discord: <b>Lorena#9995</b>.</li>
-<li><img src="https://static10.tgstat.ru/channels/_0/b4/b4019f29ef8316dd5a7bed1923367d93.jpg" width="20"> Play with me on call of duty mobile: <b>bnarelo</b>.</li>
-</ul>
-
-<details>
-<summary><b>also follow me on</b>:</summary>
-<br>
-<ul>
-<li><a href="https://app.rocketseat.com.br/me/lorenabastos"><img src="https://embed.filekitcdn.com/e/tBsgk1B9duMKbVtFjcLnK8/6kwAbrCXdvYVzhXpMy5CCY/email" width="100"></a></li>
-<li><a href="https://web.digitalinnovation.one/users/lorenabastosamz?tab=achievements"><img src="https://mulherohomemdacasa.com.br/wp-content/uploads/2020/02/2.png" width="100"></a></li>
-</ul>
-</details>
-
-<hr>
 
 <details open>
 <summary>⚙ <b>GitHub Analytics</b>: </summary>
