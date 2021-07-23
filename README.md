@@ -1,5 +1,5 @@
 <h1 align="center"> Hey, what's up? I'm Lorena <img src="https://github.com/devSouvik/devSouvik/blob/master/Hi.gif?raw=true" width="35"></h1>
-<h4 align="center">a computer engineering and fullstack development student.</h4>
+<h4 align="center">Computer Engineering · Full Stack Web Development · Artificial Intelligence and Robotics</h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=narelo&color=blue" alt="profile views">
