@@ -21,17 +21,6 @@
 </a>
 </p>
 
-<img src="https://github.com/narelo/narelo/blob/main/gif.gif?raw=true" alt="gif" align="right" width="400">
-
-<h3 align="center">👩🏽‍💻 ABOUT ME</h3>
-<ul>
-<li>💬 Ask me about anything <a href="https://github.com/narelo/narelo/issues">here</a>.</li>
-<li>🤖 Great love for Artificial Intelligence and Robotics.</li>
-<li>🎓 Studying Computer Engineering and computer programming.</li>
-<li>🖥️ I'm currently learning web development focused on frontend development.</li>
-<li> 🌱 Exploring new technologies and developing software solutions and quick hacks.</li>
-<br>
-
 <details open>
 <summary>⚙ <b>GitHub Analytics</b>: </summary>
 <br>
