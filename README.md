@@ -2,7 +2,7 @@
 <h4 align="center">Computer Engineering · Full Stack Web Development · Artificial Intelligence and Robotics</h4>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=narelo&color=blue" alt="profile views">
+  <img src="https://komarev.com/ghpvc/?username=lorenabstos&color=blue" alt="profile views">
 </p>
 
 <h3 align="center">🤝 CONNECT WITH ME</h3>
@@ -13,7 +13,7 @@
 <a href="https://www.linkedin.com/in/lorenabastos/">
 <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=blue&style=social">
 </a>
-<a href="https://www.instagram.com/devhitech/">
+<a href="https://www.instagram.com/bnarelo/">
 <img src="https://img.shields.io/badge/-Instagram-E5E7E9?logo=Instagram&logoColor=FF00A2&style=social">
 </a>
 <a href="https://t.me/lorenabsts">
@@ -25,8 +25,8 @@
 <summary>⚙ <b>GitHub Analytics</b>: </summary>
 <br>
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narelo&layout=compact&langs_count=8&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=narelo&show_icons=true&theme=dracula&bg_color=0,000000,130F40&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenabstos&layout=compact&langs_count=8&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lorenabstos&show_icons=true&theme=dracula&bg_color=0,000000,130F40&include_all_commits=true&count_private=true"/>
 </p>
 </details>
 
