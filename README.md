@@ -22,7 +22,7 @@
 </p>
 
 <details open>
-<summary>⚙ <b>GitHub Analytics</b>: </summary>
+<summary>⚙ <b>GitHub Analytics</b> </summary>
 <br>
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenabstos&layout=compact&langs_count=8&theme=radical&include_all_commits=true&count_private=true"/>
