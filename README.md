@@ -2,7 +2,7 @@
 <h4 align="center">Computer Engineering · Full Stack Web Development · Artificial Intelligence and Robotics</h4>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lorenabstos&color=black" alt="profile views">
+  <img src="https://komarev.com/ghpvc/?username=lorenabstos&color=pink" alt="profile views">
 </p>
 
 <h3 align="center">🤝 CONNECT WITH ME</h3>
