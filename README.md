@@ -1,5 +1,5 @@
 <h1 align="center"> Hey, what's up? I'm Lorena <img src="https://github.com/devSouvik/devSouvik/blob/master/Hi.gif?raw=true" width="35"></h1>
-<h4 align="center">Computer Engineering · Full Stack Web Development · Artificial Intelligence and Robotics</h4>
+<h4 align="center">Computer Engineering · Full Stack Web Development · Artificial Intelligence and Robotics · Embedded Systems</h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lorenabstos&color=blueviolet" alt="profile views">
@@ -13,7 +13,7 @@
 <a href="https://www.linkedin.com/in/lorenabastos/">
 <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=blue&style=social">
 </a>
-<a href="https://www.instagram.com/clare.lab/">
+<a href="https://www.instagram.com/lorenabstos/">
 <img src="https://img.shields.io/badge/-Instagram-E5E7E9?logo=Instagram&logoColor=FF00A2&style=social">
 </a>
 <a href="https://t.me/lorenabsts">
