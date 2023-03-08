@@ -5,22 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=lorenabstos&color=blueviolet" alt="profile views">
 </p>
 
-<h3 align="center">🤝 CONNECT WITH ME</h3>
-<p align="center">
-<a href="mailto:lorenabastosamz@gmail.com/">
-<img src="https://img.shields.io/badge/-Gmail-c14321?logo=Gmail&logoColor=red&style=social">
-</a>
-<a href="https://www.linkedin.com/in/lorenabastos/">
-<img src="https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=blue&style=social">
-</a>
-<a href="https://www.instagram.com/lorenabstos/">
-<img src="https://img.shields.io/badge/-Instagram-E5E7E9?logo=Instagram&logoColor=FF00A2&style=social">
-</a>
-<a href="https://t.me/lorenabsts">
-<img src="https://img.shields.io/badge/-Telegram-E5E7E9?logo=Telegram&style=social">
-</a>
-</p>
-
 <details open>
 <summary>⚙ <b>GitHub Analytics</b> </summary>
 <br>
