@@ -1,9 +1,10 @@
-<h1 align="center"> Hey, what's up? I'm Lorena <img src="https://github.com/devSouvik/devSouvik/blob/master/Hi.gif?raw=true" width="35"></h1>
-<h4 align="center">Computer Engineering · Full Stack Web Development</h4>
+# Lorena Bastos
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lorenabstos&color=green" alt="profile views">
-</p>
+Computer Engineering @UFAM
+
+[![Twitter Badge](https://img.shields.io/badge/-@dieegosf-00875f?style=flat-square&labelColor=00875f&logo=twitter&logoColor=white&link=https://twitter.com/dieegosf)](https://twitter.com/lorenabstos) 
+[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/lorenabastos/) 
+[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:lorenabastosamz@gmail.com)
 
 <details open>
 <summary>⚙ <b>GitHub Analytics</b> </summary>
