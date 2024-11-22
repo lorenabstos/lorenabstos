@@ -1,6 +1,6 @@
 # Lorena Bastos
 
-Computer Engineering @UFAM.
+Computer Engineer @UFAM.
 
 [![Twitter Badge](https://img.shields.io/badge/-@lorenabstos-00875f?style=flat-square&labelColor=00875f&logo=twitter&logoColor=white&link=https://twitter.com/dieegosf)](https://twitter.com/lorenabstos) 
 [![Linkedin Badge](https://img.shields.io/badge/-Lorena%20Bastos-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lorenabastos/)](https://www.linkedin.com/in/lorenabastos/) 
